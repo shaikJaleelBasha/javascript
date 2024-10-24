@@ -1,0 +1,17 @@
+nav{
+   
+    align-items: center;
+
+}
+ul {
+    display:flex;
+    justify-content: space-between;
+}
+    li {
+        list-style: none;
+        display: inline-block;
+}
+
+.mov{
+   text-align: left;    
+}
